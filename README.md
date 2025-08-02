@@ -1,4 +1,4 @@
-# Jeu de la vie – Python & Tkinter
+# Jeu de la vie - Tkinter
 
 Ce projet est une implémentation du jeu de la vie de Conway en Python.  
 L'interface graphique a été réalisée avec Tkinter et l'architecture repose sur la programmation orientée objet.
